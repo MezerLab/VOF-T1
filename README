@@ -1,0 +1,5 @@
+This is the example code and data associated with the following paper:
+
+Schurr, Roey, Shir Filo, and Aviv A. Mezer. "Tractography delineation of the vertical occipital fasciculus using quantitative T1 mapping." NeuroImage (2019): 116121.‏
+
+See an example for usage in VOF_T1_main.m
